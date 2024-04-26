@@ -1,2 +1,8 @@
 # BTS-and-MRT-planner
-For algorithm project.
+For data algorithm:
+Implementation as code: 
+
+
+
+
+
